@@ -26,4 +26,4 @@ Imagine que você, como cliente, está sentado em uma mesa em um restaurante. Vo
 ## Conclusão
 
 O protocolo HTTP facilita a comunicação entre clientes e servidores na web, assim como o processo de fazer pedidos e receber pratos em um restaurante. Com essa analogia, esperamos que fique mais claro como as solicitações e respostas são trocadas entre os dispositivos na internet.
-```
+```'
