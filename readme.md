@@ -1,12 +1,13 @@
-# Funcionamento do Protocolo HTTP: Analogia com Restaurante
+# Funcionamento do Protocolo HTTP
+# Analogia com Restaurante
 
 No contexto do HTTP, pense em um restaurante onde um cliente faz um pedido e o servidor age como o chef, preparando e entregando a resposta.
 
 ## Cliente fazendo um Pedido
 
-1. **Cliente (Garçom):** O cliente (garçom) chama o garçom (cliente) para fazer um pedido (requisição HTTP).
+1. **Cliente (Garçom):** O cliente chama o garçom , para fazer um pedido (requisição HTTP).
 
-2. **Pedido e Detalhes (Request Header e Body):** O pedido pode conter detalhes adicionais, como preferências. Assim como uma requisição HTTP com cabeçalhos (request headers) e, às vezes, um corpo (request body).
+2. **Pedido e Detalhes (Request Header e Body):** O pedido pode conter detalhes adicionais, como adicionar uma água. Assim como uma requisição HTTP com cabeçalhos e, às vezes, um corpo.
 
 ## Servidor Respondendo
 
